@@ -1,3 +1,6 @@
 #this is a comment
 
 print('hello')
+name = 'adeel sherazi'
+
+print(name)
